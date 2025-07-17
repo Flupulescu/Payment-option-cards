@@ -1,0 +1,285 @@
+/* payment plan */
+.payment-plan {
+  width: 300px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555555;
+  margin: 15px;
+}
+.payment-plan-header1 {
+  padding: 25px;
+  background-color: orange;
+  background-image: linear-gradient(orange, rgb(241, 189, 91));
+  color: #ffffff;
+}
+.payment-plan-title1,
+.payment-plan-summary1 {
+  margin: 0;
+  text-align: center;
+  padding: 0.5rem;
+}
+.payment-plan-title1 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.payment-plan-summary1 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.payment-plan-description {
+  padding: 25px;
+}
+.payment-plan-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  font-size: 0.9rem;
+}
+.payment-plan-actions {
+  padding: 25px;
+  border-top: 1px solid #eeeeee;
+  display: flex;
+  flex-direction: column;
+}
+.payment-plan-button1 {
+  display: inline-block;
+  margin: 15px auto;
+  padding: 8px 20px;
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid orange;
+}
+.payment-plan-button1:hover {
+  background: orange;
+
+  color: #ffffff;
+}
+/* payment-plan */
+
+.payment-plan-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+/* payment-plan */
+.payment-plan {
+  width: 300px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555555;
+  margin: 15px;
+}
+.payment-plan-header2 {
+  padding: 25px;
+  background-color: blue;
+  background-image: linear-gradient(blue, skyblue);
+  color: #ffffff;
+}
+.payment-plan-title2,
+.payment-plan-price2,
+.payment-plan-summary2 {
+  margin: 0;
+  text-align: center;
+  padding: 0.5rem;
+}
+.payment-plan-title2 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.price-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.payment-plan-summary2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.payment-plan-price2 {
+  font-size: 2rem;
+}
+.payment-plan-description {
+  padding: 25px;
+}
+.payment-plan-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  font-size: 0.9rem;
+}
+.payment-plan-actions {
+  padding: 25px;
+  border-top: 1px solid #eeeeee;
+  display: flex;
+  flex-direction: column;
+}
+.payment-plan-button2 {
+  display: inline-block;
+  margin: 15px auto;
+  padding: 8px 20px;
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
+.payment-plan-button2:hover {
+  background: blue;
+  color: #ffffff;
+}
+/* payment plan */
+
+/* payment plan */
+.payment-plan {
+  width: 300px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555555;
+  margin: 15px;
+}
+.payment-plan-title3,
+.payment-plan-price3,
+.payment-plan-summary3 {
+  margin: 0;
+  text-align: center;
+}
+.payment-plan-title3 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.payment-plan-summary3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.payment-plan-description {
+  padding: 25px;
+}
+.payment-plan-price3 {
+  font-size: 2rem;
+}
+.payment-plan-list {
+  list-style: none;
+  padding: 3rem;
+  margin: 0;
+  position: relative;
+  font-size: 0.9rem;
+}
+.payment-plan-actions {
+  padding: 25px;
+  border-top: 1px solid #eeeeee;
+  display: flex;
+  flex-direction: column;
+}
+.payment-plan-button1 {
+  display: inline-block;
+  margin: 15px auto;
+  padding: 8px 20px;
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid orange;
+}
+.payment-plan-button1:hover {
+  background: orange;
+  color: #ffffff;
+}
+/* payment-plan */
+
+.payment-plan-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+/* payment-plan */
+.payment-plan {
+  width: 300px;
+  border-radius: 25px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #555555;
+  margin: 15px;
+}
+.payment-plan-header3 {
+  padding: 25px;
+  background: purple;
+  background-image: linear-gradient(purple, violet);
+  color: #ffffff;
+}
+.payment-plan-title3,
+.payment-plan-price3,
+.payment-plan-summary3 {
+  margin: 0;
+  text-align: center;
+  padding: 0.5rem;
+}
+.payment-plan-title3 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.payment-plan-summary3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.payment-plan-description {
+  padding: 25px;
+}
+.payment-plan-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  font-size: 0.9rem;
+}
+.payment-plan-actions {
+  padding: 25px;
+  border-top: 1px solid #eeeeee;
+  display: flex;
+  flex-direction: column;
+}
+.payment-plan-button3 {
+  display: inline-block;
+  margin: 15px auto;
+  padding: 8px 20px;
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid purple;
+}
+.payment-plan-button3:hover {
+  background: purple;
+  color: #ffffff;
+}
+/* payment plan */
+@media only screen and (max-width: 600px) {
+  .payment-plan-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
